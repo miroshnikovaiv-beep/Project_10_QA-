@@ -1,3 +1,8 @@
-file_name.txt
-*.doc 
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+.vscode/
+*.log
+Thumbs.db
 
