@@ -8,10 +8,10 @@ user_body = {
     "address": "г. Москва, ул. Пушкина, д. 10"  
 }
 
-products_ids = {
-    "ids": [1, 2, 3]
-} 
-
 kit_body = {
     "name": "Набор"
 }
+
+products_ids = {
+    "ids": [1, 2, 3]
+} 
